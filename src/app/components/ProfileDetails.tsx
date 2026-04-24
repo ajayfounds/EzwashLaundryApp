@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { ChevronLeft, User, Mail, Phone, MapPin, Trash2, Plus, Bell, Lock, Shield, Eye, EyeOff } from "lucide-react";
 import { motion } from "motion/react";
-import { toast } from "sonner@2.0.3";
+import { toast } from "sonner";
 
 // --- Wrappers ---
 

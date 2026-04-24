@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { Toaster, toast } from "sonner@2.0.3";
+import { Toaster, toast } from "sonner";
 import { supabase } from "./utils/supabase/client";
 import { BottomNav } from "./components/BottomNav";
 import { ProviderCard } from "./components/ProviderCard";
